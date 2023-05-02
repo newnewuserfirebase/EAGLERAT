@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](logo.jpg)
 <p align="center">
   <i>First time on internet Eagle Rat based on telegram bot no need pc, 
   no need port forwarding, hack your victims very easily
