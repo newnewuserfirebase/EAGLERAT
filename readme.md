@@ -6,6 +6,14 @@
 By using this tool, you can have full access to the target device and control all the actions of the device.</i>
 </p>
 
+
+<div align="center">
+  <a href="https://youtu.be/B_wq27nuWvk">
+    <img src="demo.jpg" alt="Demo Video" width="560" height="315">
+  </a>
+</div>
+
+
 ## Features
 - 🖥️ Screenshot (get screenshot from your victim device)
 - 📒 Gallery puller (Get all photos available in gallery)
@@ -34,6 +42,8 @@ By using this tool, you can have full access to the target device and control al
 - 🔐 Keylogger {Availbe in apk v1 and v2}
 - ✨ Beautiful telegram bot interface
 -🤖 Undetectable by antivirus
+
+
 <p align="center">
   <a href="https://t.me/ampleadmin">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
