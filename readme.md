@@ -1,8 +1,8 @@
 ![Logo](logo.jpg)
 <p align="center">
-  <i>First time on internet Eagle Rat based on telegram bot no need pc, 
+  First time on internet Eagle Rat based on telegram bot no need pc, 
   no need port forwarding, hack your victims very easily
-  Eagle Rat is a spyware based on Telegram bot for full access to Android devices.
+  Eagle Rat is a spyware based on Telegram bot for full access to Android devices try my app bro i send you message on telegram
 By using this tool, you can have full access to the target device and control all the actions of the device.</i>
 </p>
 
